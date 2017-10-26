@@ -1,0 +1,10 @@
+C:\Jigsaw\src\com.socket\module-info.java
+C:\Jigsaw\src\com.socket\com\socket\NetworkSocket.java
+C:\Jigsaw\src\com.socket\com\socket\spi\NetworkSocketProvider.java
+C:\Jigsaw\src\com.world\module-info.java
+C:\Jigsaw\src\com.world\com\chinna\kadira\World.java
+C:\Jigsaw\src\edu.kondapalli\module-info.java
+C:\Jigsaw\src\edu.kondapalli\edu\greetings\Greetings.java
+C:\Jigsaw\src\org.fastsocket\module-info.java
+C:\Jigsaw\src\org.fastsocket\org\fastsocket\FastNetworkSocket.java
+C:\Jigsaw\src\org.fastsocket\org\fastsocket\FastNetworkSocketProvider.java
